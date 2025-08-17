@@ -18,7 +18,7 @@ def mape(y_true, y_pred):
 # -----------------------------
 # Step 1: Load data
 # -----------------------------
-DATA_PATH = "gold_price_dataset.csv"
+DATA_PATH = "../data/gold_price_dataset.csv"
 DATE_COL = "date"
 PRICE_COL = "gold_price"
 

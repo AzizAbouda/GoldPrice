@@ -1,5 +1,4 @@
 import yfinance as yf
-import pandas as pd
 
 def download_gold_price():
     symbol = 'GC=F'  # Gold Futures
